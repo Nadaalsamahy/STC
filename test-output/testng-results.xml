@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-15T12:12:56 EET" name="Default suite" finished-at="2023-10-15T12:13:02 EET" duration-ms="6054">
+    <groups>
+    </groups>
+    <test started-at="2023-10-15T12:12:56 EET" name="Default test" finished-at="2023-10-15T12:13:02 EET" duration-ms="6054">
+      <class name="testautomationu.webDriver_java.PremiumTest">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:testautomationu.webDriver_java.PremiumTest@4b14918a]" started-at="2023-10-15T12:12:41 EET" name="startDriver" finished-at="2023-10-15T12:12:56 EET" duration-ms="14608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testLiteSubscribtionBHWithSTCPaymentMethod()[pri:0, instance:testautomationu.webDriver_java.PremiumTest@4b14918a]" started-at="2023-10-15T12:12:56 EET" name="testLiteSubscribtionBHWithSTCPaymentMethod" finished-at="2023-10-15T12:13:02 EET" duration-ms="5976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLiteSubscribtionBHWithSTCPaymentMethod -->
+      </class> <!-- testautomationu.webDriver_java.PremiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

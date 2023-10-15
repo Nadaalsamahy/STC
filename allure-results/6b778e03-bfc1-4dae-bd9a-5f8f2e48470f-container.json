@@ -1,0 +1,1 @@
+{"uuid":"6b778e03-bfc1-4dae-bd9a-5f8f2e48470f","name":"Default suite","children":["f979dec0-7fa4-4601-9c4a-fe41338a00cf"],"befores":[{"name":"startDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1697322475220,"stop":1697322491825}],"afters":[],"start":1697322475203,"stop":1697322528579}
